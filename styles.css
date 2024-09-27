@@ -6,9 +6,9 @@
 
 body {
   font-family: Arial, sans-serif;
-  background-color: #e0f7fa;
+  background-color: #f17007;
   margin-top: 10%;
-  background-image: url(image/bg.jpg);
+  background-image: url(image/pexels-rdne-7092336.jpg);
   background-repeat: no-repeat;
   width: 100%;
   color: #fff;
@@ -25,7 +25,7 @@ body {
   /* box-shadow: 0 0 30px rgba(0, 0, 0, 0.1); */
   text-align: center;
   /* From https://css.glass */
-  background: rgba( 255, 255, 255, 0.2 );
+  background: rgba(248, 244, 244, 0.2);
   box-shadow: 0 8px 32px 0 rgba(159, 163, 230, 0.37);
   backdrop-filter: blur( 3.5px );
   -webkit-backdrop-filter: blur( 3.5px );
